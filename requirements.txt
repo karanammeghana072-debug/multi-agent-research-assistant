@@ -2,3 +2,4 @@ groq
 python-dotenv
 flask
 gunicorn
+tavily-python
